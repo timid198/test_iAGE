@@ -1,0 +1,9 @@
+.header__food-img {
+    padding-top: 26px;
+    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+    width: 356px;
+    height: 356px;
+    object-fit: cover;
+}

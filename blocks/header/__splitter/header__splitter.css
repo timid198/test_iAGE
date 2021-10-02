@@ -1,0 +1,7 @@
+.header__splitter {
+    display: flex;
+    flex-direction: row;
+    width: 42%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

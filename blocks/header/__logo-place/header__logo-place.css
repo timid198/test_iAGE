@@ -1,0 +1,7 @@
+.header__logo-place {
+    position: relative;
+    width: 21%;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}

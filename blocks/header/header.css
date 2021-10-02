@@ -1,0 +1,8 @@
+.header {
+    max-width: 700px;
+    margin: 0 auto;
+    padding-top: 24px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}

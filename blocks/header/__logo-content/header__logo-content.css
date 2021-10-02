@@ -1,0 +1,13 @@
+.header__logo-content {
+    position: relative;
+    padding-left: 8px;
+    margin: 0;
+    align-self: center;
+    color: #ffffff;
+    font-family: "PF Handbook Pro";
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
