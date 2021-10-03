@@ -5,5 +5,5 @@
     max-height: 100%;
     width: 356px;
     height: 356px;
-    object-fit: cover;
+    object-fit: contain;
 }
