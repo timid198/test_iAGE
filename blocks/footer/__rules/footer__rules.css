@@ -1,0 +1,8 @@
+.footer__rules {
+    padding-top: 17px;
+    width: 35%;
+    min-height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

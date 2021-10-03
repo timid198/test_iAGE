@@ -1,0 +1,21 @@
+.header__recipe-button {
+    max-width: 150px;
+    width: 100%;
+    min-height: 28px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: transparent;
+    border-radius: 7px;
+    border: 1px solid #212121;
+    color: #212121;
+    font-family: "Arial MT Bold";
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 21.68px;
+}

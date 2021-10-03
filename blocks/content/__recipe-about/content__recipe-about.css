@@ -1,9 +1,11 @@
-.header__content {
+.content__recipe-about {
+    width: 78.125%;
     margin: 0;
-    color: #ffffff;
+    padding: 0;
+    color: #000000;
     font-family: "Arial";
     font-size: 16px;
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
     line-height: normal;

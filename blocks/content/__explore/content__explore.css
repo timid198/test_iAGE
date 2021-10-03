@@ -1,0 +1,20 @@
+.content__explore {
+    margin: 30px 0 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 42px;
+    border-radius: 21px;
+    border: 1px solid #f5d434;
+    background-color: transparent;
+    color: #000000;
+    font-family: "Arial";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 36px;
+    cursor: pointer;
+}

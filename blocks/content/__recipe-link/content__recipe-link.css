@@ -1,0 +1,12 @@
+.content__recipe-link {
+    padding-top: 25px;
+    width: 100%;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.content__recipe-link:first-child {
+    padding-top: 0;
+}

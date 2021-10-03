@@ -1,0 +1,7 @@
+.content__recipe-logo {
+    max-width: 40px;
+    max-height: 34px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

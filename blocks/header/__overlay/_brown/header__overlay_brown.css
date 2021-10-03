@@ -1,6 +1,5 @@
 .header__overlay_brown {
     background-image: url(../../../../images/back-card.png);
-    background-size: 600px, 630px, cover;
-    background-position: center;
+    background-size: 100%, 630px, cover;
     background-repeat: no-repeat;
 }
